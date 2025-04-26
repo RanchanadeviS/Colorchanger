@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+}
+.button-container{
+    text-align: center;
+    font-size: medium;
+    font-family: sans-serif;
+    margin-top: 300px;
+    
+}
+.button{
+    padding: 10px 20px;
+    text-align: center;
+    justify-items: center;
+    border: 5px;
+    cursor:pointer;
+    border: black;
+    border-radius: 1px;
+    height:10vh;
+    width: 20vh;
+}
+#red{
+    background-color: red;
+    color:#ffff;
+}
+
+#blue{
+    background-color: rgb(34, 195, 220);
+    color:#ffff;
+}
+
+#orange{
+    background-color: orange;
+    color:#ffff;
+}
+
+#green{
+    background-color: rgb(19, 167, 76);
+    color:#ffff;
+}
+
+
+
+#White{
+    background-color: #ffff;
+    color:#1b1414;
+}
